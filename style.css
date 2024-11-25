@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Grandstander:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root{
-  --text-color: #e2ff03;
-  --card-front-color: #dc863a;
-  --card-back-color: #eae4bd;
+  --text-color: -#000000;
+  --card-front-color: #ff0000;
+  --card-back-color: #ffffff;
 }
 
 body {
